@@ -165,3 +165,6 @@
 
 クラウドファンディングとは、不特定多数の人が通常インターネット経由で他の人々や組織に財源の提供や協力などを行うこと。群衆（crowd）と資金調達（funding）を組み合わせた造語。
 
+## 出展
+
+- [第2期総合戦略 【令和4年3月一部改訂】（PDF：4,200KB）](https://www.city.sabae.fukui.jp/about_city/kekaku_torikumi/kakushukeikaku/sogosenryaku/soseisogosenryaku.files/senryaku202203.pdf) [鯖江市まち・ひと・しごと創生総合戦略 – めがねのまちさばえ 鯖江市](https://www.city.sabae.fukui.jp/about_city/kekaku_torikumi/kakushukeikaku/sogosenryaku/soseisogosenryaku.html)より
