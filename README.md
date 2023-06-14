@@ -207,5 +207,7 @@
 
 ## 出展
 
-- [第2期総合戦略 【令和4年3月一部改訂】（PDF：4,200KB）](https://www.city.sabae.fukui.jp/about_city/kekaku_torikumi/kakushukeikaku/sogosenryaku/soseisogosenryaku.files/senryaku202203.pdf) [鯖江市まち・ひと・しごと創生総合戦略 – めがねのまちさばえ 鯖江市](https://www.city.sabae.fukui.jp/about_city/kekaku_torikumi/kakushukeikaku/sogosenryaku/soseisogosenryaku.html)より
+- [鯖江市まち・ひと・しごと創生総合戦略 – めがねのまちさばえ 鯖江市](https://www.city.sabae.fukui.jp/about_city/kekaku_torikumi/kakushukeikaku/sogosenryaku/soseisogosenryaku.html)
+- [第2期総合戦略 【令和4年3月一部改訂】（PDF：4,200KB）](https://www.city.sabae.fukui.jp/about_city/kekaku_torikumi/kakushukeikaku/sogosenryaku/soseisogosenryaku.files/senryaku202203.pdf)
+- [第2期総合戦略 【令和4年3月一部改訂】 (人口ビジョンを削除したもの)（Word：2.2MB）](senryaku202203.docx)
 - [data on GitHub](https://github.com/code4sabae/vision-sabae-doc)
